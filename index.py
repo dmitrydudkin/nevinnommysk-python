@@ -1,1 +1,1 @@
-print("lol kek chebyrek"):
+print("lol kak chebyrek"):
