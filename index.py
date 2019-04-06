@@ -1,1 +1,1 @@
-print("lol kek chebyrek"):
+print("Добрый вечер я деспечер"):
