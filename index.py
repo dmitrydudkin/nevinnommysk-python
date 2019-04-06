@@ -1,1 +1,1 @@
-print("Изучаем гит");
+print("lol kek chebyrek"):
