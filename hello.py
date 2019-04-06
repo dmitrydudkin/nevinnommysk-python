@@ -1,1 +1,10 @@
+from turtle import*
 print("hello Petya")
+forward(200)
+left(90)
+forward(190)
+left(90)
+forward(180)
+left(90)
+forward(170)
+exitonclick()
